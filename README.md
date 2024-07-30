@@ -1,0 +1,2 @@
+# mkdocs-example
+MkDocs example
